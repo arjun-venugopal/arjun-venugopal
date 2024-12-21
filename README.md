@@ -16,4 +16,3 @@ I'm a **Data Science and Machine Learning Intern** at [Camerinfolks](#). My day 
 ---
 [![](https://visitcount.itsvg.in/api?id=arjun-venugopal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
